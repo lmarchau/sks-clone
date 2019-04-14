@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: bcm
+
+server:
+  servlet:
+    context-path: /api

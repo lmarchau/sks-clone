@@ -1,0 +1,32 @@
+[
+  {
+    "price": 105.56,
+    "flight": {
+      "id": "1",
+      "departure_airport": "CDG",
+      "arrival_airport": "LHR",
+      "departure_time": "2019-05-21T10:00:00",
+      "arrival_time": "2019-05-21T11:05:00"
+    }
+  },
+  {
+    "price": 105.56,
+    "flight": {
+      "id": "12",
+      "departure_airport": "CDG",
+      "arrival_airport": "LHR",
+      "departure_time": "2019-05-21T12:00:00",
+      "arrival_time": "2019-05-21T13:05:00"
+    }
+  },
+  {
+    "price": 105.56,
+    "flight": {
+      "id": "123",
+      "departure_airport": "CDG",
+      "arrival_airport": "LHR",
+      "departure_time": "2019-05-21T15:00:00",
+      "arrival_time": "2019-05-21T17:05:00"
+    }
+  }
+]
